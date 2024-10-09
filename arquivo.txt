@@ -1,0 +1,3 @@
+Erro de impressão#Impressora#sem tinta
+Notebook não liga#Hardware#notebook travou
+tela azul#Software#deu tela azul quando liguei o PC
