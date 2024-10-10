@@ -1,5 +1,7 @@
 <?php
   require_once 'validador.php';
+
+  print_r($_SESSION);
 ?>
 
 <html>

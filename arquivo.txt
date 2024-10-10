@@ -1,3 +1,4 @@
-Erro de impressão#Impressora#sem tinta
-Notebook não liga#Hardware#notebook travou
-tela azul#Software#deu tela azul quando liguei o PC
+1#chamado marcos#Software#bla bla bla
+1#teste adm#Impressora#sei la
+3#teste marcos#Impressora#bla bla bla
+4#Teste maria#Rede#testandooooo
